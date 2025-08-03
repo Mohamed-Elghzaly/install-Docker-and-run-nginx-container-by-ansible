@@ -4,8 +4,7 @@
     become: true
 
     roles:
-        - install_docker
-        - run_nginx_container
+        - myrole
 
 
 
